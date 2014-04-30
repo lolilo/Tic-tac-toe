@@ -5,6 +5,9 @@ minimax
 recursive backtracking and restricted search(?), constraint satisfaction problems
 
 later
-Look into Boggle 
-alpha-beta pruning later
+===========
+
+[Peter Norvig's Sudoku](http://norvig.com/sudoku.html)
+Boggle 
+alpha-beta pruning
 trie
